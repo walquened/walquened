@@ -21,6 +21,5 @@
 
 ![walquenedLucino GitHub stats](https://github-readme-stats.vercel.app/api?username=walquened&show_icons=true&theme=radical)
 <img height = "195em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=walquened&layout=compact&langs_count=7&theme=dracula" />  
-<p align = "center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=11¢er=true&vleft=true&lines=Estude+Batalhe+Confie+em+Você!;A+Aprendizagem+não+é+um+Esporte+para+Espectadores">
+<p align = "center"> <img src = "https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=11¢er=true&vleft=true&lines=Estude+Batalhe+Confie+em+Você!;A+Aprendizagem+não+é+um+Esporte+para+Espectadores">
 </p>  
